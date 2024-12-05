@@ -1,0 +1,2 @@
+# cmake_template_public
+用于编写cmake项目的模版
